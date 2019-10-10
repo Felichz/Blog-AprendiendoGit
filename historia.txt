@@ -1,15 +1,1 @@
-Biografía Leonardo da Vinci
-
-Nacimiento y fallecimiento:
-Nació el 15 de abril de 1452 y murió el 2 de mayo de 1519
-
-Ocupaciones:
-Fue un polímata florentino del Renacimiento italiano. Fue a la vez pintor, anatomista, 
-arquitecto, paleontólogo,3​ artista, botánico, científico, escritor, escultor, filósofo, 
-ingeniero, inventor, músico, poeta y urbanista.
-
-Historia:
-Tras pasar su infancia en su ciudad natal, Leonardo estudió con el pintor florentino Andrea de Verrocchio. 
-Sus primeros trabajos de importancia fueron creados en Milán al servicio del duque Ludovico Sforza. 
-Trabajó a continuación en Roma, Bolonia y Venecia, y pasó los últimos años de su vida en Francia, por 
-invitación del rey Francisco.
+Aprendiendo git con Freddy Vega de Platzi
