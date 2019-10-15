@@ -78,8 +78,9 @@ header
 
 #footer
 {
-    margin-top: 10px;
-    padding: .5em;
+    margin-top: 50px;
+    padding: 10px;
     background: whitesmoke;
     color: #DE4C36;
+    font-weight: bold;
 }
