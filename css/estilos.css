@@ -84,3 +84,8 @@ header
     color: #DE4C36;
     font-weight: bold;
 }
+
+#footer p
+{
+    font-size: 30px;
+}
