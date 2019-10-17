@@ -90,3 +90,13 @@ header
 {
     font-size: 30px;
 }
+
+img
+{
+    max-width: 100%;
+}
+
+.post img
+{
+    max-width: 50%;
+}
