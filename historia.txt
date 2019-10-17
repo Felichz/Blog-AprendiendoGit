@@ -1,1 +1,3 @@
 Aprendiendo git con Freddy Vega de Platzi
+
+Commit 1 Master
