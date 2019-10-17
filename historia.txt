@@ -2,5 +2,6 @@ Aprendiendo git con Freddy Vega de Platzi
 
 Commit 1 Experimento, partiendo de Commit 1 Master
 
-Commit 1 Master
-Commit 2 Master
+Commit 2 Experimento, partiendo de Commit 1 Master
+
+Commit 1 MasterCommit 2 Master
