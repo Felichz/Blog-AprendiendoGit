@@ -5,4 +5,4 @@ Un curso que me gusta mucho porque también esta orientado al mundo profesional 
 
 Temas:
 
-![Temas](https://i.imgur.com/jnrUNjS.jpg "Temas")
+![Temas](https://i.imgur.com/UnFqIir.jpg "Temas")
